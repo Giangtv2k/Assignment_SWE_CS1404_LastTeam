@@ -1,0 +1,4 @@
+E001;Nguyen Van Hoa;120, Le Loi, Q1;Male;241
+E002;Tran Trung Truc;130, Tran Phu, Nha Trang;Male;190
+E005;Tran Trung Dung;205/6, Bach Dang, Binh Thanh;Male;290
+E006;Nguyen Bich Ngoc;22/5/7, Le Lai, Q1;Female;550
